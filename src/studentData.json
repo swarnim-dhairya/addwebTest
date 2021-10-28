@@ -1,0 +1,6 @@
+[
+    {"id": "1", "fname" : "Swarnima","lname": "Kulshrestha" , "phone" : "2222332222" , "email":"test1@123.com", "date": "07/14/1987"},
+    {"id": "2", "fname" : "Swarnima1","lname": "Kulshrestha1" , "phone" : "2222332222" , "email":"test2@123.com", "date": "2/12/1983"},
+    {"id": "3", "fname" : "Swarnima2","lname": "Kulshrestha2" , "phone" : "2222222211" , "email":"test3@123.com", "date": "1/07/1980"}
+  
+  ]
